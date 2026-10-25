@@ -13,6 +13,20 @@
 
 ---
 
+## 🤖 About Community Poke
+
+**Community Poke** is a [Poke](https://poke.com) instance that was turned into a Discord bot in the Poke Community Discord server.
+
+> Nothing Community Poke does is endorsed by The Interaction Company of California or Cognition.
+
+> **Note on the repositories:** mind the repos. Most of them were made by one dude. For the story, come to Discord and ask about Wolfy.
+
+Come say hi at **[poke.com/discord](https://poke.com/discord)**.
+
+For a plain-language overview of how the bot works, see [docs/how-it-works.md](https://github.com/CommunityPokeOrg/.github/blob/main/docs/how-it-works.md).
+
+---
+
 ## 🧭 Who we are
 
 **CommunityPokeOrg** is the workshop of the Poke Community. Where the [**CommunityPoke**](https://github.com/CommunityPoke) account is the identity of the shared Poke instance itself, this organization is where the community's *projects* live: tools, bridges, libraries, and the occasional game that exists purely because someone in the Discord said "wouldn't it be funny if."
