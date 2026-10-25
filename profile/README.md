@@ -39,11 +39,9 @@ Everything here is public, built in the open, and maintained with a healthy mix 
 
 | Project | What it is |
 | --- | --- |
-| [**poke-hermes-agent-bridge**](https://github.com/CommunityPokeOrg/poke-hermes-agent-bridge) | Public agent-to-agent bridge allowing Poke to trigger and interface with the Nous Research Hermes agent |
-| [**smart-email-tracker**](https://github.com/CommunityPokeOrg/smart-email-tracker) | Privacy-aware email open tracking with intelligent filtering for proxy prefetches, MPP, scanners, and sender self-opens |
-| [**sheet-schema-editor**](https://github.com/CommunityPokeOrg/sheet-schema-editor) | TypeScript/React library and UI for uploading, editing, schema-mapping, and exporting CSV/XLS/XLSX tabular data |
-| [**peat-bog-incremental**](https://github.com/CommunityPokeOrg/peat-bog-incremental) | An incremental clicker game about harvesting peat bog compute broth, cooling servers, and upgrading server racks |
-| [**popcat-clone**](https://github.com/CommunityPokeOrg/popcat-clone) | A classic Popcat clicking meme game with animated mouth, popping audio, and click counter |
+| [**peat-bog-incremental**](https://github.com/CommunityPokeOrg/peat-bog-incremental) | An incremental clicker game about harvesting peat bog compute broth, cooling servers, and upgrading server racks. Play live at https://communitypokeorg.github.io/peat-bog-incremental/ |
+| [**wolfy-update-tracker**](https://github.com/CommunityPokeOrg/wolfy-update-tracker) | Community tracker counting how many times Wolfy says "update" in 24 hours (UTC+7), with a live ticker, countdown, and a playful over/under odds board |
+| [**rewind**](https://github.com/CommunityPokeOrg/rewind) | A macOS local-first time tracker with passive app and window tracking and an EKG-style daily attention replay |
 
 Browse all of them at **[github.com/orgs/CommunityPokeOrg/repositories](https://github.com/orgs/CommunityPokeOrg/repositories)**.
 
